@@ -2,6 +2,10 @@
 
 A simple and lightweight Android app built in Jetpack Compose for tracking children’s growth metrics — adding and editing child profiles, capturing measurements, and setting unit preferences.
 
+| Home                        | Records                     | Charts                          |
+| --------------------------- | --------------------------- | ------------------------------- |
+| ![Home](images/image1.webp) | ![Edit](images/image2.webp) | ![Settings](images/image3.webp) |
+
 ## 🧒 Overview
 
 ChildGrowthTracking allows parents or caregivers to:
@@ -57,8 +61,6 @@ ChildGrowthTracking allows parents or caregivers to:
 4. Build and run the app on an Android device or emulator (API level X+).
 
 5. Customize the UI, add new features, or adjust the data model for your use case.
-
- 
 
 ## 📄 License
 
